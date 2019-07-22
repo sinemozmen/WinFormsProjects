@@ -1,0 +1,10 @@
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\bin\Debug\WindowsFormsProject01.exe.config
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\bin\Debug\WindowsFormsProject01.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\bin\Debug\WindowsFormsProject01.pdb
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.Properties.Resources.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.pdb
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject01\obj\Debug\WindowsFormsProject01.FrmDonguler.resources
