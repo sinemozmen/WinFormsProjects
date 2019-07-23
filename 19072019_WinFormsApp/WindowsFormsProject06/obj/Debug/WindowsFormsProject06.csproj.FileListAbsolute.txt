@@ -1,0 +1,11 @@
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\bin\Debug\WindowsFormsProject06.exe.config
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\bin\Debug\WindowsFormsProject06.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\bin\Debug\WindowsFormsProject06.pdb
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.HedefForm.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.KaynakForm.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.Properties.Resources.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject06\obj\Debug\WindowsFormsProject06.pdb

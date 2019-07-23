@@ -1,0 +1,11 @@
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\bin\Debug\WindowsFormsProject05.exe.config
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\bin\Debug\WindowsFormsProject05.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\bin\Debug\WindowsFormsProject05.pdb
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.csprojAssemblyReference.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.AnaForm.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.Properties.Resources.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.RenkDegistirenForm.resources
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.csproj.GenerateResource.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.exe
+C:\Users\Section1\source\repos\19072019_WinFormsApp\WindowsFormsProject05\obj\Debug\WindowsFormsProject05.pdb
