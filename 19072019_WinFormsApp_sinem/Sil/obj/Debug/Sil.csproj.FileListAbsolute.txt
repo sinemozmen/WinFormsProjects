@@ -1,0 +1,14 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.pdb
+E:\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.exe.config
+E:\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.exe
+E:\19072019_WinFormsApp_sinem\Sil\bin\Debug\Sil.pdb
+E:\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.csprojAssemblyReference.cache
+E:\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.csproj.CoreCompileInputs.cache
+E:\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.exe
+E:\19072019_WinFormsApp_sinem\Sil\obj\Debug\Sil.pdb

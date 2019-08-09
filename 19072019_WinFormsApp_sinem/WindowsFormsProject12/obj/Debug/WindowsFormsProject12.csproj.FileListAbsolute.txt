@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\bin\Debug\WindowsFormsProject12.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\bin\Debug\WindowsFormsProject12.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\bin\Debug\WindowsFormsProject12.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject12\obj\Debug\WindowsFormsProject12.btnDegistir.resources

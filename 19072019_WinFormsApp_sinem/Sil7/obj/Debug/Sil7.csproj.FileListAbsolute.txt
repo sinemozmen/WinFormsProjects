@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\bin\Debug\Sil7.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\bin\Debug\Sil7.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\bin\Debug\Sil7.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.Form1.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil7\obj\Debug\Sil7.pdb

@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.Form1.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\bin\Debug\Sil5.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\bin\Debug\Sil5.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\bin\Debug\Sil5.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\Sil5\obj\Debug\Sil5.pdb

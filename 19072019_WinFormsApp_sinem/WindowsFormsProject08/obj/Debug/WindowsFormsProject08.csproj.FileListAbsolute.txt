@@ -1,0 +1,9 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\bin\Debug\WindowsFormsProject08.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\bin\Debug\WindowsFormsProject08.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\bin\Debug\WindowsFormsProject08.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.Form1.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject08\obj\Debug\WindowsFormsProject08.pdb

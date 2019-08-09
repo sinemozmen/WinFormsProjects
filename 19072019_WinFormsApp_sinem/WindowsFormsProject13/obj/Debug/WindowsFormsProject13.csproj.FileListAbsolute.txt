@@ -1,0 +1,10 @@
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\bin\Debug\WindowsFormsProject13.exe.config
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\bin\Debug\WindowsFormsProject13.exe
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\bin\Debug\WindowsFormsProject13.pdb
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.csprojAssemblyReference.cache
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.Form1.resources
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.Properties.Resources.resources
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.csproj.GenerateResource.cache
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.exe
+C:\Users\Sinem\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject13\obj\Debug\WindowsFormsProject13.pdb

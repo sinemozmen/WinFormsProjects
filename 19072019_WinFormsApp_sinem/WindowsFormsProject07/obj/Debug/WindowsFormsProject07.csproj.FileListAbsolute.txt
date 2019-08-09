@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\bin\Debug\WindowsFormsProject07.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\bin\Debug\WindowsFormsProject07.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\bin\Debug\WindowsFormsProject07.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.Form1.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject07\obj\Debug\WindowsFormsProject07.pdb

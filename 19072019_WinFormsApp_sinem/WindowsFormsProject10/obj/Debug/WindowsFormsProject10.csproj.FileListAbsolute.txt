@@ -1,0 +1,13 @@
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\bin\Debug\WindowsFormsProject10.exe.config
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\bin\Debug\WindowsFormsProject10.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\bin\Debug\WindowsFormsProject10.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.csprojAssemblyReference.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.Form1.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.FormYeni.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.FormYeni2.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.Properties.Resources.resources
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.exe
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.pdb
+C:\Users\Section2\Desktop\19072019_WinFormsApp_sinem\WindowsFormsProject10\obj\Debug\WindowsFormsProject10.FormYeni3.resources
